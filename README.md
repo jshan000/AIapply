@@ -1,5 +1,15 @@
 # VIBE: Al-Powered Voice-to-Text & Safety Alert System
 
+## 🔗 Code Link
+
+**Frontend**
+
+https://github.com/jshan000/VIBE-client
+
+**Backend**
+
+https://github.com/jshan000/VIBE-server
+
 
 ## 📢 Group Members
 
