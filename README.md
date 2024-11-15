@@ -1,4 +1,4 @@
-# VIBE: Al-Powered Voice-to-Text & Safety Alert System
+# Smart Legal Form Builder: AI-Enhanced Document Creation
 
 ## 🔗 Code Link
 
@@ -27,24 +27,44 @@ https://github.com/jshan000/VIBE-server
 
 ### Idea background
 
-People who need SKT NUGU voice recognition service - We want to implement a function for those who are placed in the blind spot of information (features for the deaf)
+Who Needs This Service?
+People who struggle with legal document preparation due to lack of legal expertise or access to affordable professional assistance. This tool is designed for individuals and small businesses who need support in creating formal documents like complaints, contracts, and appeals.
 
-### A problem situation in which the deaf are present
 
-**1. the difficulty of social communication**
+### A problem Situation Faced by Many Users
 
-Problem: Deaf people have great difficulty in everyday conversation, communication in public, communication in emergency situations, etc.
+**1. Lack of Legal Knowledge**
 
-Statistics: According to a study, more than 50 percent of deaf people say they feel socially isolated because of difficulties in everyday conversations
+Problem: Many people face challenges in understanding and drafting legal documents because they lack formal legal education or experience.
+They are unsure about the structure, required elements, and proper legal terminology.
+This leads to errors or delays in processing important legal documents.
 
-**2. emergency response**
 
-Issue: Response may be delayed due to failure to hear voice notifications (fire alarms, car horns, etc.) in an emergency.
+Statistics: According to the 2019 국민법의식통계 (Korean Legal Awareness Statistics), approximately 76.3% of respondents found legal terminology difficult to understand, and 78.4% struggled with comprehending legal sentences.
+In the same study, 61.6% of respondents evaluated that legal services in society are quantitatively insufficient.
 
-Statistics: Approximately 30% of deaf people reported experiencing danger from not being aware of sound-based alerts in emergency situations
+
+**2. Cost and Time Barriers**
+
+Problem: Hiring a lawyer or legal professional can be expensive and time-consuming.
+Simple document preparation often involves significant financial investment.
+Individuals with limited budgets may feel discouraged from pursuing legal remedies or formal agreements.
+
+Statistics: A 2020 report from the Judicial Policy Research Institute highlights that legal service costs pose a major burden to the public, prompting discussions on introducing legal service insurance systems.
 
 ### Goals
 
-Development of real-time voice-to-text conversion/hazard detection apps for the deaf
+Development of an AI-powered legal form builder that simplifies the process of creating legal documents for non-experts.
 
-Objective: To help the hearing impaired by converting the voice into real-time text for easy conversation of daily conversations, and to let them know by vibration if they hear dangerous sounds.
+### Objective
+Simplify Legal Document Creation:
+Enable users to create high-quality legal documents without needing professional assistance.
+Provide step-by-step guidance through a chatbot interface to gather necessary information.
+
+Improve Accessibility to Legal Solutions:
+Offer a cost-effective alternative to traditional legal services.
+Make legal support accessible to underrepresented communities and small businesses.
+
+Ensure Accuracy and Compliance:
+Use AI to ensure that generated documents adhere to legal standards and templates.
+Reduce the likelihood of errors that can delay or nullify legal processes.
