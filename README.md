@@ -1,4 +1,4 @@
-# VIBE: Al-Powered Voice-to-Text & Safety Alert System
+# Smart Legal Form Builder: AI-Enhanced Document Creation
 
 ## 🔗 Code Link
 
