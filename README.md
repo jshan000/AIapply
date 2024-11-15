@@ -47,4 +47,4 @@ Statistics: Approximately 30% of deaf people reported experiencing danger from n
 
 Development of real-time voice-to-text conversion/hazard detection apps for the deaf
 
-Objective: To help the hearing impaired by converting the voice into real-time text for easy conversation of daily conversations, and to let them know by vibration if they hear dangerous sounds.
+Objective: To help the hearing impaired by converting the voice into real-time text for easy conversation of daily conversations, and to let them know by vibration if they hear dangerous sounds..
