@@ -67,13 +67,11 @@ Each of these fields is provided in text format, and they are structured in a wa
 
 The dataset was generated using **GPT-2**, which was employed to produce various text formats and variations required for complaint generation. The model directly generated data for complaint templates that include complainant information, defendant information, incident descriptions, and complaint intent, which were used as training data.
 
-#### Why We Didn’t Use Existing Datasets
+Reasons for creating the dataset with GPT-2:
 
-We chose not to use existing datasets for complaint generation and instead decided to **generate the dataset using GPT-2** for several reasons:
+1. **Lack of comprehensive legal document datasets**: Most available datasets for complaints are either limited in scope or only cover specific types of incidents. This limitation makes it difficult to train a model that can generalize across various legal scenarios. Additionally, legal terminology and the variability of incidents are complex, making it essential to create diverse templates to ensure the model learns to handle multiple types of complaints.
 
-1. **Lack of comprehensive legal document datasets**: Most available datasets for complaints are either limited in scope or only cover specific types of incidents. This limitation makes it difficult to train a model that can generalize across various legal scenarios. Additionally, legal terminology and the variability of incidents are complex, making it essential to create **diverse templates** to ensure the model learns to handle multiple types of complaints.
-
-2. **Leveraging GPT's data augmentation capabilities**: By using GPT, we were able to **automatically generate** a wide variety of complaint documents for different legal situations. This method enabled us to **expand the training dataset** without manual effort and allowed for more generalized learning. The diverse set of generated complaints gave the model the flexibility to handle a wide range of real-world legal scenarios, making the system more powerful and adaptable.
+2. **Leveraging GPT's data augmentation capabilities**: By using GPT, we were able to automatically generate a wide variety of complaint documents for different legal situations. This method enabled us to expand the training dataset without manual effort and allowed for more generalized learning. The diverse set of generated complaints gave the model the flexibility to handle a wide range of real-world legal scenarios, making the system more powerful and adaptable.
 
 
 ---
