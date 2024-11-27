@@ -41,6 +41,13 @@ This solution not only enables users to create legal documents without professio
 ### II. Datasets
 The dataset used to train the **Complaint Generation AI Model** consists of three **CSV files**, each containing different sections of a **legal complaint**. These datasets are provided in text format and include the essential information required to create a complaint, such as complainant details, defendant details, and incident descriptions.
 
+#### CSV files
+
+- [Harassment Dataset](./harassment_dataset.csv)
+- [Online Incident Reports](./online_incident_reports.csv)
+- [중고거래사기500 Dataset](./중고거래사기500_dataset.csv)
+
+
 #### Dataset Structure:
 
 1. Complainant Information:
