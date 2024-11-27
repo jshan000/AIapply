@@ -274,10 +274,10 @@ These platforms, like the Smart Legal Form Builder, aim to simplify the legal do
 In this research, the Smart Legal Form Builder was developed using the GPT-2 model to automate the generation of legal complaints. The model focuses on filling in the required information such as complainant details, defendant information, incident description, and complaint intent, based on structured templates.
 
 #### Key Findings:
-- The model has successfully generated complaints with basic information (e.g., complainant details, defendant details) with high accuracy.
+- The model has generated complaints with basic information (e.g., complainant details, defendant details) with high accuracy.
 - However, the incident description and legal outcomes sections still need improvement in terms of accuracy and legal compliance.
 
 #### Future Directions:
 To improve the model's performance, we plan to augment the dataset to address data imbalance, especially for categories like sexual harassment and assault. Additionally, fine-tuning the model for different legal cases and optimizing hyperparameters will help improve its overall performance. Legal accuracy will be a key focus of further improvements, with an emphasis on incorporating expert legal reviews.
 
-The Smart Legal Form Builder presents a significant step toward automating legal document generation. By improving its accuracy and generalization, this model has the potential to make legal services more accessible and efficient for individuals and small businesses, especially in cost-sensitive legal contexts.
+The Smart Legal Form Builder presents a significant step toward automating legal document generation. By improving its accuracy and generalization, this model has the potential to make legal services more accessible and efficient for individuals, especially in cost-sensitive legal contexts.
