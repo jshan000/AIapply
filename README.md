@@ -281,3 +281,6 @@ In this research, the Smart Legal Form Builder was developed using the GPT-2 mod
 To improve the model's performance, we plan to augment the dataset to address data imbalance, especially for categories like sexual harassment and assault. Additionally, fine-tuning the model for different legal cases and optimizing hyperparameters will help improve its overall performance. Legal accuracy will be a key focus of further improvements, with an emphasis on incorporating expert legal reviews.
 
 The Smart Legal Form Builder presents a significant step toward automating legal document generation. By improving its accuracy and generalization, this model has the potential to make legal services more accessible and efficient for individuals, especially in cost-sensitive legal contexts.
+
+
+## 📗 Related Documents
