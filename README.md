@@ -1,15 +1,5 @@
 # Smart Legal Form Builder: AI-Enhanced Document Creation
 
-## 🔗 Code Link
-
-**Frontend**
-
-https://github.com/jshan000/VIBE-client
-
-**Backend**
-
-https://github.com/jshan000/VIBE-server
-
 
 ## 📢 Group Members
 
@@ -285,3 +275,13 @@ The Smart Legal Form Builder presents a significant step toward automating legal
 [Smart Legal Form Builder PPT](./Smart%20Legal%20Form%20Builder%20PPT.pdf)  
 
 [Smart Legal Form Builder Report.pdf](https://github.com/jshan000/AIapply/blob/main/Smart%20Legal%20Form%20Builder%20Report.pdf)
+
+## 🔗 Code Link
+
+**Frontend**
+
+https://github.com/jshan000/VIBE-client
+
+**Backend**
+
+https://github.com/jshan000/VIBE-server
